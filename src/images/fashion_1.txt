@@ -1,0 +1,12 @@
+{
+  "contents": {
+    "シーズン" : "秋",
+    "色" : "緑",
+    "服装ジャンル" : "シティ系",
+    "使用シーン" : "ランチ",
+    "身長" : "全ての身長",
+    "髪色" : "黒髪",
+    "髪型" : "マッシュ",
+  },
+  "image": "https://drive.google.com/file/d/1sAnaosQDzk_ftFZ9plOgALPalEbQ9MGI/view?usp=drive_link"
+}

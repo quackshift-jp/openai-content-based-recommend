@@ -1,0 +1,12 @@
+{
+  "contents": {
+    "シーズン" : "秋",
+    "色" : "ブラック",
+    "服装ジャンル" : "シティ系",
+    "使用シーン" : "デート",
+    "身長" : "全ての身長",
+    "髪色" : "金髪",
+    "髪型" : "ショート",
+  },
+  "image": "https://drive.google.com/file/d/1dQ5PWKbFE4fsh2egr6FpvdNhbJ7Jfkcx/view?usp=drive_link"
+}

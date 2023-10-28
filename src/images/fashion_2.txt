@@ -1,0 +1,12 @@
+{
+  "contents": {
+    "シーズン" : "秋",
+    "色" : "グレー",
+    "服装ジャンル" : "カジュアル",
+    "使用シーン" : "仕事",
+    "身長" : "低身長(160cm以下)",
+    "髪色" : "黒髪",
+    "髪型" : "センターパート",
+  },
+  "image": "https://drive.google.com/file/d/12xqXA8PkGarsI5Xr9J_ABf9RhUwwSyUh/view?usp=drive_link"
+}
