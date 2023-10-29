@@ -1,5 +1,3 @@
-import sys
-
 import streamlit as st
 
 SEASON = ["春", "夏", "秋", "冬"]
