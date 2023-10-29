@@ -64,23 +64,4 @@ def extract_answer_image_path_from_question(
     """
     response = retrieval_chain({"question": query, "chat_history": chat_history})
     chat_history.append((question, response["answer"]))
-    print(chat_history)
     return response["answer"]
-
-
-if __name__ == "__main__":
-    index = create_indexing_dir_data("../images/")
-    retrieval_chain = create_retrieval_chain(index)
-    print(
-        extract_answer_image_path_from_question(
-            retrieval_chain,
-            "夏",
-            "ブラック",
-            "シティ系",
-            "デート",
-            "全ての身長",
-            "金髪",
-            "ショート",
-            "デートプランとして、水族館にも行く。",
-        )
-    )
