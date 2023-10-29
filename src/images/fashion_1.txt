@@ -8,5 +8,5 @@
     "hair_color" : "黒髪",
     "hair_style" : "マッシュ"
   },
-  "image": "https://drive.google.com/file/d/1sAnaosQDzk_ftFZ9plOgALPalEbQ9MGI/view?usp=drive_link"
+  "image": "src/images/fashion_1.jpeg"
 }

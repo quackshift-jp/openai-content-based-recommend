@@ -8,5 +8,5 @@
     "hair_color" : "黒髪",
     "hair_style" : "センターパート"
   },
-  "image": "https://drive.google.com/file/d/12xqXA8PkGarsI5Xr9J_ABf9RhUwwSyUh/view?usp=drive_link"
+  "image": "src/images/fashion_2.jpeg"
 }
