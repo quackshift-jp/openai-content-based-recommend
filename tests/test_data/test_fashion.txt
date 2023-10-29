@@ -1,0 +1,12 @@
+{
+  "contents": {
+    "season" : "テストシーズン",
+    "fashion_color" : "テストカラー",
+    "genre" : "テストジャンル",
+    "scene" : "テストシーン",
+    "height" : "テスト身長",
+    "hair_color" : "テスト髪色",
+    "hair_style" : "テストヘアスタイル"
+  },
+  "image": "https://test"
+}
